@@ -1,0 +1,332 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Electron",
+          "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:48:00Z",
+            "owner": "electron",
+            "repo": "electron",
+            "stars": 122481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tauri",
+          "description": "Tauri is a tool for building tiny, blazing fast binaries for all major desktop platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T00:40:17Z",
+            "owner": "tauri-apps",
+            "repo": "tauri",
+            "stars": 110164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wails",
+          "description": "Create desktop apps using Go and Web Technologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:23:32Z",
+            "owner": "wailsapp",
+            "repo": "wails",
+            "stars": 35791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iced",
+          "description": "A cross-platform GUI library for Rust, inspired by Elm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T14:32:58Z",
+            "owner": "iced-rs",
+            "repo": "iced",
+            "stars": 31229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fyne",
+          "description": "Cross platform GUI in Go based on Material Design",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T20:10:05Z",
+            "owner": "fyne-io",
+            "repo": "fyne",
+            "stars": 28590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react native for windows&mac",
+          "description": "A framework bringing React Native to Windows & Mac devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T00:26:39Z",
+            "owner": "microsoft",
+            "repo": "react-native-windows",
+            "stars": 17322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Electrobun",
+          "description": "Build ultra fast, tiny, and cross-platform desktop apps with TypeScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:12:51Z",
+            "owner": "blackboardsh",
+            "repo": "electrobun",
+            "stars": 12661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proton-native A React environment for cross platform native desktop apps proton-native.js.org Unmaintained",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T02:21:10Z",
+            "owner": "kusti8",
+            "repo": "proton-native",
+            "stars": 10887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-gui",
+          "description": "A library for building cross-platform native desktop applications with JavaScript and CSS like styling 🚀",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-03T17:50:16Z",
+            "owner": "nodegui",
+            "repo": "nodegui",
+            "stars": 9225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neutralinojs",
+          "description": "Build lightweight cross-platform desktop apps with JavaScript, HTML, and CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T00:31:37Z",
+            "owner": "neutralinojs",
+            "repo": "neutralinojs",
+            "stars": 8607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "revery ⚡️ Native, high-performance, cross-platform desktop apps - built with Reason! Unmaintained",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2022-02-13T22:31:10Z",
+            "owner": "revery-ui",
+            "repo": "revery",
+            "stars": 8045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azul",
+          "description": "Desktop GUI Framework in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:10:00Z",
+            "owner": "fschutt",
+            "repo": "azul",
+            "stars": 6115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuido Native desktop applications using Vue.js. vuido.mimec.org Unmaintained",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-01T22:54:33Z",
+            "owner": "mimecorg",
+            "repo": "vuido",
+            "stars": 6056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kraken High-performance web rendering engine, built on Flutter by Alibaba. Unmaintained",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-30T15:02:55Z",
+            "owner": "openkraken",
+            "repo": "kraken",
+            "stars": 4928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Muon",
+          "description": "Lightweight alternative to Electron written in Golang",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-03-15T06:02:13Z",
+            "owner": "ImVexed",
+            "repo": "muon",
+            "stars": 2941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graffiti",
+          "description": "Rapid GUI development using familiar technologies (javascript, flexbox, css)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2023-11-08T17:06:06Z",
+            "owner": "cztomsik",
+            "repo": "graffiti",
+            "stars": 932
+          }
+        }
+      ],
+      "title": "Framework"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "shadcn/ui",
+          "description": "Beautifully designed components that you can copy and paste into your apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:22:04Z",
+            "owner": "shadcn-ui",
+            "repo": "ui",
+            "stars": 121207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chakra UI",
+          "description": "Simple, Modular & Accessible UI Components for your React Applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T16:54:40Z",
+            "owner": "chakra-ui",
+            "repo": "chakra-ui",
+            "stars": 40573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rough.js",
+          "description": "Rough.js is a small (<9 kB) graphics library that lets you draw in a sketchy, hand-drawn-like, style.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-07-28T21:12:58Z",
+            "owner": "rough-stuff",
+            "repo": "rough",
+            "stars": 21126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluent Design",
+          "description": "Fluent Design System by Microsoft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:10:38Z",
+            "owner": "microsoft",
+            "repo": "fluentui",
+            "stars": 20208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Radix UI",
+          "description": "Unstyled, accessible components for building high‑quality design systems and web apps in React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T16:39:51Z",
+            "owner": "radix-ui",
+            "repo": "primitives",
+            "stars": 19158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geist UI",
+          "description": "Modern and minimalist React UI library, originating from Vercel's design.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-06-01T16:08:50Z",
+            "owner": "geist-org",
+            "repo": "geist-ui",
+            "stars": 4556
+          }
+        }
+      ],
+      "title": "UI library"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:22:17.460Z",
+    "original_repository": "zoubingwu/awesome-gui",
+    "original_repository_sha": "1b906d8602bf4b055791d555bc39cd7c52318bed",
+    "enhanced_repository": "enhansome/enhansome-gui",
+    "enhanced_repository_description": null,
+    "title": "awesome-gui with stars"
+  }
+}
