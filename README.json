@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T09:25:39Z",
+            "last_commit": "2026-08-14T09:51:50Z",
             "owner": "electron",
             "repo": "electron",
-            "stars": 122491
+            "stars": 122495
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T09:06:35Z",
+            "last_commit": "2026-08-14T09:24:29Z",
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 110177
+            "stars": 110224
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T07:35:31Z",
+            "last_commit": "2026-08-14T09:47:37Z",
             "owner": "wailsapp",
             "repo": "wails",
-            "stars": 35792
+            "stars": 35819
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-12T14:32:58Z",
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31229
+            "stars": 31239
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-10T20:10:05Z",
+            "last_commit": "2026-08-14T10:02:00Z",
             "owner": "fyne-io",
             "repo": "fyne",
-            "stars": 28588
+            "stars": 28597
           }
         },
         {
@@ -81,10 +81,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T00:26:39Z",
+            "last_commit": "2026-08-13T19:30:39Z",
             "owner": "microsoft",
             "repo": "react-native-windows",
-            "stars": 17322
+            "stars": 17320
           }
         },
         {
@@ -95,10 +95,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T21:12:51Z",
+            "last_commit": "2026-08-14T02:22:38Z",
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12664
+            "stars": 12663
           }
         },
         {
@@ -137,10 +137,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T00:31:37Z",
+            "last_commit": "2026-08-14T00:32:19Z",
             "owner": "neutralinojs",
             "repo": "neutralinojs",
-            "stars": 8607
+            "stars": 8610
           }
         },
         {
@@ -165,7 +165,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T03:10:00Z",
+            "last_commit": "2026-08-14T11:11:06Z",
             "owner": "fschutt",
             "repo": "azul",
             "stars": 6113
@@ -241,10 +241,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T15:22:04Z",
+            "last_commit": "2026-08-13T18:44:30Z",
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 121242
+            "stars": 121311
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-08-11T16:54:40Z",
             "owner": "chakra-ui",
             "repo": "chakra-ui",
-            "stars": 40574
+            "stars": 40577
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2024-07-28T21:12:58Z",
             "owner": "rough-stuff",
             "repo": "rough",
-            "stars": 21127
+            "stars": 21128
           }
         },
         {
@@ -283,10 +283,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T10:51:24Z",
+            "last_commit": "2026-08-13T22:04:47Z",
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20206
+            "stars": 20210
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2026-08-08T16:39:51Z",
             "owner": "radix-ui",
             "repo": "primitives",
-            "stars": 19160
+            "stars": 19161
           }
         },
         {
@@ -322,7 +322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:24:50.381Z",
+    "last_updated": "2026-08-14T11:23:26.330Z",
     "original_repository": "zoubingwu/awesome-gui",
     "original_repository_sha": "1b906d8602bf4b055791d555bc39cd7c52318bed",
     "enhanced_repository": "enhansome/enhansome-gui",
