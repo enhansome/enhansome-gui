@@ -12,10 +12,10 @@
             "archived": false,
             "id": 9384267,
             "language": "C++",
-            "last_commit": "2026-08-24T10:06:06Z",
+            "last_commit": "2026-08-24T14:25:09Z",
             "owner": "electron",
             "repo": "electron",
-            "stars": 122682
+            "stars": 122687
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T21:34:35Z",
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 110516
+            "stars": 110521
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T00:04:50Z",
             "owner": "wailsapp",
             "repo": "wails",
-            "stars": 35942
+            "stars": 35946
           }
         },
         {
@@ -105,13 +105,13 @@
             "last_commit": "2026-08-22T20:36:39Z",
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12685
+            "stars": 12690
           }
         },
         {
           "node_type": "item",
-          "title": "proton-native A React environment for cross platform native desktop apps proton-native.js.org Unmaintained",
-          "description": null,
+          "title": "proton-native A React environment for cross platform native desktop apps proton-native.js.org",
+          "description": "Unmaintained",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -155,8 +155,8 @@
         },
         {
           "node_type": "item",
-          "title": "revery ⚡️ Native, high-performance, cross-platform desktop apps - built with Reason! Unmaintained",
-          "description": null,
+          "title": "revery ⚡️ Native, high-performance, cross-platform desktop apps - built with Reason!",
+          "description": "Unmaintained",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 117740918,
             "language": "Rust",
-            "last_commit": "2026-08-24T10:54:01Z",
+            "last_commit": "2026-08-24T14:23:13Z",
             "owner": "fschutt",
             "repo": "azul",
             "stars": 6112
@@ -185,8 +185,8 @@
         },
         {
           "node_type": "item",
-          "title": "vuido Native desktop applications using Vue.js. vuido.mimec.org Unmaintained",
-          "description": null,
+          "title": "vuido Native desktop applications using Vue.js. vuido.mimec.org",
+          "description": "Unmaintained",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,8 +200,8 @@
         },
         {
           "node_type": "item",
-          "title": "Kraken High-performance web rendering engine, built on Flutter by Alibaba. Unmaintained",
-          "description": null,
+          "title": "Kraken High-performance web rendering engine, built on Flutter by Alibaba.",
+          "description": "Unmaintained",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -258,10 +258,10 @@
             "archived": false,
             "id": 585146387,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T09:14:51Z",
+            "last_commit": "2026-08-24T12:02:53Z",
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 121979
+            "stars": 121990
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-08-22T16:15:30Z",
             "owner": "chakra-ui",
             "repo": "chakra-ui",
-            "stars": 40588
+            "stars": 40590
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2024-07-28T21:12:58Z",
             "owner": "rough-stuff",
             "repo": "rough",
-            "stars": 21138
+            "stars": 21139
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-08-24T09:17:54Z",
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20226
+            "stars": 20227
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2026-08-08T16:39:51Z",
             "owner": "radix-ui",
             "repo": "primitives",
-            "stars": 19201
+            "stars": 19202
           }
         },
         {
@@ -344,7 +344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:05:12.914Z",
+    "last_updated": "2026-08-24T14:40:13.336Z",
     "original_repository": "zoubingwu/awesome-gui",
     "original_repository_id": 204604055,
     "original_repository_sha": "1b906d8602bf4b055791d555bc39cd7c52318bed",
