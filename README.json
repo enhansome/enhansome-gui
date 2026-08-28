@@ -12,11 +12,12 @@
             "archived": false,
             "id": 9384267,
             "language": "C++",
-            "last_commit": "2026-08-27T20:32:52Z",
+            "last_commit": "2026-08-28T20:58:48Z",
             "owner": "electron",
             "repo": "electron",
-            "stars": 122753
-          }
+            "stars": 122770
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 196701619,
             "language": "Rust",
-            "last_commit": "2026-08-27T16:39:08Z",
+            "last_commit": "2026-08-28T16:18:58Z",
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 110602
-          }
+            "stars": 110625
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 161951219,
             "language": "Go",
-            "last_commit": "2026-08-27T19:12:43Z",
+            "last_commit": "2026-08-28T20:39:56Z",
             "owner": "wailsapp",
             "repo": "wails",
-            "stars": 36017
-          }
+            "stars": 36031
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 197081291,
             "language": "Rust",
-            "last_commit": "2026-08-27T12:27:38Z",
+            "last_commit": "2026-08-28T09:46:50Z",
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31375
-          }
+            "stars": 31381
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "fyne-io",
             "repo": "fyne",
             "stars": 28644
-          }
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 48009214,
             "language": "C++",
-            "last_commit": "2026-08-27T18:11:10Z",
+            "last_commit": "2026-08-28T05:43:46Z",
             "owner": "microsoft",
             "repo": "react-native-windows",
             "stars": 17329
-          }
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -105,8 +111,9 @@
             "last_commit": "2026-08-26T18:33:51Z",
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12706
-          }
+            "stars": 12717
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -120,8 +127,9 @@
             "last_commit": "2023-01-07T02:21:10Z",
             "owner": "kusti8",
             "repo": "proton-native",
-            "stars": 10884
-          }
+            "stars": 10885
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "nodegui",
             "repo": "nodegui",
             "stars": 9226
-          }
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -147,11 +156,12 @@
             "archived": false,
             "id": 138368259,
             "language": "C",
-            "last_commit": "2026-08-27T01:45:41Z",
+            "last_commit": "2026-08-28T03:07:21Z",
             "owner": "neutralinojs",
             "repo": "neutralinojs",
-            "stars": 8617
-          }
+            "stars": 8615
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "revery-ui",
             "repo": "revery",
             "stars": 8043
-          }
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -177,11 +188,12 @@
             "archived": false,
             "id": 117740918,
             "language": "Rust",
-            "last_commit": "2026-08-26T09:35:38Z",
+            "last_commit": "2026-08-28T20:11:40Z",
             "owner": "fschutt",
             "repo": "azul",
             "stars": 6113
-          }
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "mimecorg",
             "repo": "vuido",
             "stars": 6053
-          }
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "openkraken",
             "repo": "kraken",
             "stars": 4927
-          }
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "ImVexed",
             "repo": "muon",
             "stars": 2942
-          }
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "cztomsik",
             "repo": "graffiti",
             "stars": 932
-          }
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         }
       ],
       "title": "Framework"
@@ -261,8 +277,9 @@
             "last_commit": "2026-08-26T06:28:13Z",
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 122306
-          }
+            "stars": 122416
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -273,11 +290,12 @@
             "archived": false,
             "id": 202890778,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T17:07:26Z",
+            "last_commit": "2026-08-28T17:32:38Z",
             "owner": "chakra-ui",
             "repo": "chakra-ui",
-            "stars": 40599
-          }
+            "stars": 40598
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -291,8 +309,9 @@
             "last_commit": "2024-07-28T21:12:58Z",
             "owner": "rough-stuff",
             "repo": "rough",
-            "stars": 21145
-          }
+            "stars": 21146
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -303,11 +322,12 @@
             "archived": false,
             "id": 60537144,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:17:29Z",
+            "last_commit": "2026-08-28T13:11:26Z",
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20233
-          }
+            "stars": 20232
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -321,8 +341,9 @@
             "last_commit": "2026-08-08T16:39:51Z",
             "owner": "radix-ui",
             "repo": "primitives",
-            "stars": 19215
-          }
+            "stars": 19218
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -337,14 +358,15 @@
             "owner": "geist-org",
             "repo": "geist-ui",
             "stars": 4554
-          }
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         }
       ],
       "title": "UI library"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:43:50.975Z",
+    "last_updated": "2026-08-28T21:14:51.601Z",
     "original_repository_info": {
       "archived": false,
       "id": 204604055,
