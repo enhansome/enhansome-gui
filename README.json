@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+            "homepage": "https://electronjs.org",
             "id": 9384267,
             "language": "C++",
-            "last_commit": "2026-08-28T20:58:48Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:56:12Z",
+            "open_issues": 753,
             "owner": "electron",
             "repo": "electron",
-            "stars": 122770
+            "stars": 122774,
+            "topics": [
+              "c-plus-plus",
+              "chrome",
+              "css",
+              "electron",
+              "html",
+              "javascript",
+              "nodejs",
+              "v8",
+              "works-with-codespaces"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -26,12 +41,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+            "homepage": "https://tauri.app",
             "id": 196701619,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:18:58Z",
+            "open_issues": 1454,
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 110625
+            "stars": 110630,
+            "topics": [
+              "desktop-app",
+              "high-performance",
+              "mobile-app",
+              "native-app",
+              "rust",
+              "web-frontend",
+              "webview"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -42,12 +70,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create beautiful applications using Go",
+            "homepage": "https://wails.io",
             "id": 161951219,
             "language": "Go",
-            "last_commit": "2026-08-28T20:39:56Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:25:22Z",
+            "open_issues": 302,
             "owner": "wailsapp",
             "repo": "wails",
-            "stars": 36031
+            "stars": 36031,
+            "topics": [
+              "angular",
+              "desktop-application",
+              "go",
+              "golang",
+              "javascript",
+              "linux",
+              "macos",
+              "react",
+              "svelte",
+              "vuejs",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -58,12 +103,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform GUI library for Rust, inspired by Elm",
+            "homepage": "https://iced.rs",
             "id": 197081291,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:46:50Z",
+            "open_issues": 487,
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31381
+            "stars": 31385,
+            "topics": [
+              "elm",
+              "graphics",
+              "gui",
+              "interface",
+              "renderer-agnostic",
+              "rust",
+              "toolkit",
+              "user-interface",
+              "widget",
+              "widgets"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -74,12 +135,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross platform GUI toolkit in Go inspired by Material Design",
+            "homepage": "https://fyne.io/",
             "id": 120227732,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T13:25:07Z",
+            "open_issues": 731,
             "owner": "fyne-io",
             "repo": "fyne",
-            "stars": 28644
+            "stars": 28645,
+            "topics": [
+              "android",
+              "cross-platform",
+              "fyne",
+              "go",
+              "golang",
+              "gui",
+              "hacktoberfest",
+              "ios",
+              "theme",
+              "toolkit"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -90,12 +167,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for building native Windows apps with React.",
+            "homepage": "https://microsoft.github.io/react-native-windows/",
             "id": 48009214,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T05:43:46Z",
+            "open_issues": 797,
             "owner": "microsoft",
             "repo": "react-native-windows",
-            "stars": 17329
+            "stars": 17329,
+            "topics": [
+              "dotnet",
+              "react",
+              "react-native",
+              "uwp",
+              "xbox"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -106,12 +194,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
+            "homepage": "http://blackboard.sh/electrobun",
             "id": 764419211,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:33:51Z",
+            "open_issues": 100,
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12717
+            "stars": 12718,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -122,12 +215,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React environment for cross platform desktop apps",
+            "homepage": "https://proton-native.js.org",
             "id": 111610659,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T02:21:10Z",
+            "open_issues": 89,
             "owner": "kusti8",
             "repo": "proton-native",
-            "stars": 10885
+            "stars": 10885,
+            "topics": [
+              "cross-platform",
+              "desktop",
+              "js",
+              "native",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -138,12 +242,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org",
+            "homepage": "http://docs.nodegui.org",
             "id": 186662363,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-05-03T17:50:16Z",
+            "open_issues": 98,
             "owner": "nodegui",
             "repo": "nodegui",
-            "stars": 9226
+            "stars": 9226,
+            "topics": [
+              "cross-platform",
+              "desktop",
+              "gui",
+              "javascript",
+              "nodejs",
+              "openlibrary",
+              "qt"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -154,12 +271,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Portable and lightweight cross-platform desktop application development framework",
+            "homepage": "https://neutralino.js.org",
             "id": 138368259,
             "language": "C",
-            "last_commit": "2026-08-28T03:07:21Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:37:37Z",
+            "open_issues": 179,
             "owner": "neutralinojs",
             "repo": "neutralinojs",
-            "stars": 8615
+            "stars": 8615,
+            "topics": [
+              "c-plus-plus",
+              "cross-platform",
+              "css",
+              "framework",
+              "hacktoberfest",
+              "html",
+              "http-server",
+              "javascript",
+              "json",
+              "native-development",
+              "neutralinojs"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -170,12 +304,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":zap: Native, high-performance, cross-platform desktop apps - built with Reason!",
+            "homepage": "https://www.outrunlabs.com/revery/",
             "id": 149477929,
             "language": "Reason",
+            "license": "MIT",
             "last_commit": "2022-02-13T22:31:10Z",
+            "open_issues": 112,
             "owner": "revery-ui",
             "repo": "revery",
-            "stars": 8043
+            "stars": 8043,
+            "topics": [
+              "app",
+              "cross-platform",
+              "desktop",
+              "desktop-apps",
+              "electron",
+              "native",
+              "ocaml",
+              "react",
+              "reason",
+              "reasonml",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -186,12 +337,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Desktop GUI Framework",
+            "homepage": "https://azul.rs/",
             "id": 117740918,
             "language": "Rust",
-            "last_commit": "2026-08-28T20:11:40Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:55:09Z",
+            "open_issues": 24,
             "owner": "fschutt",
             "repo": "azul",
-            "stars": 6113
+            "stars": 6113,
+            "topics": [
+              "c",
+              "cpp",
+              "desktop",
+              "desktop-gui-framework",
+              "gui",
+              "gui-framework",
+              "gui-library",
+              "opengl",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -202,12 +368,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native desktop applications using Vue.js.",
+            "homepage": "https://vuido.mimec.org/",
             "id": 133851398,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-01T22:54:33Z",
+            "open_issues": 28,
             "owner": "mimecorg",
             "repo": "vuido",
-            "stars": 6053
+            "stars": 6052,
+            "topics": [
+              "desktop",
+              "libui",
+              "vue",
+              "vuido"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -218,12 +394,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web standards-compliant, high-performance rendering engine based on Flutter.",
+            "homepage": "https://openkraken.com",
             "id": 318458506,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-30T15:02:55Z",
+            "open_issues": 207,
             "owner": "openkraken",
             "repo": "kraken",
-            "stars": 4927
+            "stars": 4927,
+            "topics": [
+              "engine",
+              "flutter",
+              "kraken",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -234,12 +420,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GPU based Electron on a diet",
+            "homepage": null,
             "id": 211175643,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2023-03-15T06:02:13Z",
+            "open_issues": 27,
             "owner": "ImVexed",
             "repo": "muon",
-            "stars": 2942
+            "stars": 2942,
+            "topics": [
+              "cross-platform",
+              "desktop",
+              "electron",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -250,12 +446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML/CSS engine for node.js and deno.",
+            "homepage": "http://tomsik.cz/graffiti",
             "id": 154177632,
             "language": "Zig",
+            "license": "MIT",
             "last_commit": "2023-11-08T17:06:06Z",
+            "open_issues": 2,
             "owner": "cztomsik",
             "repo": "graffiti",
-            "stars": 932
+            "stars": 932,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         }
@@ -272,12 +473,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+            "homepage": "https://ui.shadcn.com",
             "id": 585146387,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T06:28:13Z",
+            "open_issues": 2237,
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 122416
+            "stars": 122450,
+            "topics": [
+              "base-ui",
+              "components",
+              "laravel",
+              "nextjs",
+              "radix-ui",
+              "react",
+              "react-aria",
+              "react-aria-components",
+              "shadcn",
+              "tailwindcss",
+              "tanstack",
+              "ui",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -288,12 +508,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chakra UI is a component system for building SaaS products with speed ⚡️",
+            "homepage": "https://chakra-ui.com",
             "id": 202890778,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:32:38Z",
+            "open_issues": 12,
             "owner": "chakra-ui",
             "repo": "chakra-ui",
-            "stars": 40598
+            "stars": 40602,
+            "topics": [
+              "a11y",
+              "accessible",
+              "ark-ui",
+              "chakra-ui",
+              "component",
+              "css-in-js",
+              "dark-mode",
+              "design-system",
+              "react",
+              "react-components",
+              "reactjs",
+              "styled",
+              "ui-components",
+              "ui-library",
+              "uikit",
+              "wai-aria"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -304,12 +546,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create graphics with a hand-drawn, sketchy, appearance",
+            "homepage": "http://roughjs.com",
             "id": 76342242,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-07-28T21:12:58Z",
+            "open_issues": 42,
             "owner": "rough-stuff",
             "repo": "rough",
-            "stars": 21146
+            "stars": 21147,
+            "topics": [
+              "canvas",
+              "draw",
+              "graphics",
+              "html5-canvas",
+              "svg",
+              "svg-path"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -320,12 +574,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+            "homepage": "https://react.fluentui.dev",
             "id": 60537144,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:11:26Z",
+            "open_issues": 770,
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20232
+            "stars": 20232,
+            "topics": [
+              "components",
+              "fluent",
+              "microsoft",
+              "office-ui-fabric",
+              "react",
+              "react-components"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -336,12 +602,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.",
+            "homepage": "https://radix-ui.com/primitives",
             "id": 273499522,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-08T16:39:51Z",
+            "open_issues": 342,
             "owner": "radix-ui",
             "repo": "primitives",
-            "stars": 19218
+            "stars": 19219,
+            "topics": [
+              "accessibility",
+              "colors",
+              "component-library",
+              "design-systems",
+              "radix-ui",
+              "react",
+              "ui",
+              "ui-components",
+              "ui-kit"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         },
@@ -352,12 +633,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A design system for building modern websites and applications.",
+            "homepage": null,
             "id": 248295170,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-01T16:08:50Z",
+            "open_issues": 55,
             "owner": "geist-org",
             "repo": "geist-ui",
-            "stars": 4554
+            "stars": 4556,
+            "topics": [
+              "design-system",
+              "design-systems",
+              "geist",
+              "geist-ui",
+              "hacktoberfest",
+              "react",
+              "react-components"
+            ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
         }
@@ -366,15 +660,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:14:51.601Z",
+    "last_updated": "2026-08-29T04:57:14.998Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome libraries for building cross platform app.",
+      "homepage": null,
       "id": 204604055,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-05-11T08:40:42Z",
+      "open_issues": 2,
       "owner": "zoubingwu",
       "repo": "awesome-gui",
-      "stars": 97
+      "stars": 97,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cross-platform",
+        "desktop-gui-libraries",
+        "gui"
+      ]
     },
     "original_repository_sha": "1b906d8602bf4b055791d555bc39cd7c52318bed",
     "enhanced_repository": "enhansome/enhansome-gui",
