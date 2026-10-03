@@ -15,11 +15,11 @@
             "id": 9384267,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-02T13:47:30Z",
-            "open_issues": 719,
+            "last_commit": "2026-10-03T13:46:00Z",
+            "open_issues": 723,
             "owner": "electron",
             "repo": "electron",
-            "stars": 123357,
+            "stars": 123368,
             "topics": [
               "c-plus-plus",
               "chrome",
@@ -47,10 +47,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T13:41:06Z",
-            "open_issues": 1476,
+            "open_issues": 1480,
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 111560,
+            "stars": 111569,
             "topics": [
               "desktop-app",
               "high-performance",
@@ -79,7 +79,7 @@
             "open_issues": 368,
             "owner": "wailsapp",
             "repo": "wails",
-            "stars": 36425,
+            "stars": 36431,
             "topics": [
               "angular",
               "desktop-application",
@@ -108,11 +108,11 @@
             "id": 197081291,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T20:37:02Z",
-            "open_issues": 508,
+            "last_commit": "2026-10-03T14:07:33Z",
+            "open_issues": 505,
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31648,
+            "stars": 31652,
             "topics": [
               "elm",
               "graphics",
@@ -141,7 +141,7 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-01T05:50:44Z",
-            "open_issues": 740,
+            "open_issues": 742,
             "owner": "fyne-io",
             "repo": "fyne",
             "stars": 28725,
@@ -203,7 +203,7 @@
             "open_issues": 129,
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12871,
+            "stars": 12872,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
@@ -342,11 +342,11 @@
             "id": 117740918,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T23:35:38Z",
+            "last_commit": "2026-10-03T13:53:49Z",
             "open_issues": 28,
             "owner": "fschutt",
             "repo": "azul",
-            "stars": 6122,
+            "stars": 6123,
             "topics": [
               "c",
               "cpp",
@@ -479,10 +479,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T11:32:02Z",
-            "open_issues": 1817,
+            "open_issues": 1820,
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 125010,
+            "stars": 125044,
             "topics": [
               "base-ui",
               "components",
@@ -555,7 +555,7 @@
             "open_issues": 42,
             "owner": "rough-stuff",
             "repo": "rough",
-            "stars": 21225,
+            "stars": 21224,
             "topics": [
               "canvas",
               "draw",
@@ -583,7 +583,7 @@
             "open_issues": 813,
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20303,
+            "stars": 20304,
             "topics": [
               "components",
               "fluent",
@@ -611,7 +611,7 @@
             "open_issues": 364,
             "owner": "radix-ui",
             "repo": "primitives",
-            "stars": 19359,
+            "stars": 19360,
             "topics": [
               "accessibility",
               "colors",
@@ -660,7 +660,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:49:15.307Z",
+    "last_updated": "2026-10-03T14:51:50.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries for building cross platform app.",
