@@ -4,34 +4,34 @@ A curated list of awesome libraries for building cross platform apps.
 
 ## Framework
 
-* [Electron](https://github.com/electron/electron) ⭐ 123,475 | 🐛 746 | 🌐 C++ | 📅 2026-10-22 Build cross-platform desktop apps with JavaScript, HTML, and CSS
-* [tauri](https://github.com/tauri-apps/tauri) ⭐ 112,115 | 🐛 1,481 | 🌐 Rust | 📅 2026-10-22 Tauri is a tool for building tiny, blazing fast binaries for all major desktop platforms.
-* [Wails](https://github.com/wailsapp/wails) ⭐ 36,648 | 🐛 338 | 🌐 Go | 📅 2026-10-22 Create desktop apps using Go and Web Technologies.
-* [iced](https://github.com/iced-rs/iced) ⭐ 31,815 | 🐛 512 | 🌐 Rust | 📅 2026-10-21 A cross-platform GUI library for Rust, inspired by Elm
-* [fyne](https://github.com/fyne-io/fyne) ⭐ 28,764 | 🐛 744 | 🌐 Go | 📅 2026-10-19 Cross platform GUI in Go based on Material Design
-* [react native for windows\&mac](https://github.com/microsoft/react-native-windows) ⭐ 17,360 | 🐛 808 | 🌐 C++ | 📅 2026-10-21 A framework bringing React Native to Windows & Mac devices.
-* [Electrobun](https://github.com/blackboardsh/electrobun) ⭐ 12,949 | 🐛 148 | 🌐 TypeScript | 📅 2026-10-22 Build ultra fast, tiny, and cross-platform desktop apps with TypeScript
+* [Electron](https://github.com/electron/electron) ⭐ 123,503 | 🐛 764 | 🌐 C++ | 📅 2026-10-23 Build cross-platform desktop apps with JavaScript, HTML, and CSS
+* [tauri](https://github.com/tauri-apps/tauri) ⭐ 112,142 | 🐛 1,477 | 🌐 Rust | 📅 2026-10-23 Tauri is a tool for building tiny, blazing fast binaries for all major desktop platforms.
+* [Wails](https://github.com/wailsapp/wails) ⭐ 36,666 | 🐛 340 | 🌐 Go | 📅 2026-10-23 Create desktop apps using Go and Web Technologies.
+* [iced](https://github.com/iced-rs/iced) ⭐ 31,823 | 🐛 512 | 🌐 Rust | 📅 2026-10-21 A cross-platform GUI library for Rust, inspired by Elm
+* [fyne](https://github.com/fyne-io/fyne) ⭐ 28,769 | 🐛 744 | 🌐 Go | 📅 2026-10-19 Cross platform GUI in Go based on Material Design
+* [react native for windows\&mac](https://github.com/microsoft/react-native-windows) ⭐ 17,360 | 🐛 798 | 🌐 C++ | 📅 2026-10-23 A framework bringing React Native to Windows & Mac devices.
+* [Electrobun](https://github.com/blackboardsh/electrobun) ⭐ 12,951 | 🐛 148 | 🌐 TypeScript | 📅 2026-10-23 Build ultra fast, tiny, and cross-platform desktop apps with TypeScript
 * ~~[proton-native](https://github.com/kusti8/proton-native) ⭐ 10,869 | 🐛 89 | 🌐 TypeScript | 📅 2023-01-07 A React environment for cross platform native desktop apps proton-native.js.org~~ Unmaintained
 * [node-gui](https://github.com/nodegui/nodegui) ⭐ 9,231 | 🐛 101 | 🌐 C++ | 📅 2026-05-03 A library for building cross-platform native desktop applications with JavaScript and CSS like styling 🚀
-* [Neutralinojs](https://github.com/neutralinojs/neutralinojs) ⭐ 8,672 | 🐛 198 | 🌐 C | 📅 2026-10-22 Build lightweight cross-platform desktop apps with JavaScript, HTML, and CSS
+* [Neutralinojs](https://github.com/neutralinojs/neutralinojs) ⭐ 8,671 | 🐛 198 | 🌐 C | 📅 2026-10-23 Build lightweight cross-platform desktop apps with JavaScript, HTML, and CSS
 * ~~[revery](https://github.com/revery-ui/revery) ⭐ 8,034 | 🐛 112 | 🌐 Reason | 📅 2022-02-13 ⚡️ Native, high-performance, cross-platform desktop apps - built with Reason!~~ Unmaintained
-* [Azul](https://github.com/maps4print/azul) ⭐ 6,130 | 🐛 28 | 🌐 Rust | 📅 2026-10-22 Desktop GUI Framework in Rust
+* [Azul](https://github.com/maps4print/azul) ⭐ 6,130 | 🐛 29 | 🌐 Rust | 📅 2026-10-22 Desktop GUI Framework in Rust
 * ~~[vuido](https://github.com/mimecorg/vuido) ⭐ 6,044 | 🐛 28 | 🌐 JavaScript | 📅 2023-03-01 Native desktop applications using Vue.js. vuido.mimec.org~~ Unmaintained
 * ~~[Kraken](https://github.com/openkraken/kraken) ⭐ 4,924 | 🐛 207 | 🌐 TypeScript | 📅 2022-12-30 High-performance web rendering engine, built on Flutter by Alibaba.~~ Unmaintained
 * [Muon](https://github.com/ImVexed/muon) ⭐ 2,942 | 🐛 27 | 🌐 C | 📅 2023-03-15 Lightweight alternative to Electron written in Golang
-* [MyGo](https://github.com/egoist/mygo) ⭐ 2,589 | 🐛 107 | 🌐 Go | 📅 2026-10-22 Desktop apps in Go, with a web frontend or a native GPU-rendered UI, shipped as a single binary
+* [MyGo](https://github.com/egoist/mygo) ⭐ 2,668 | 🐛 126 | 🌐 Go | 📅 2026-10-23 Desktop apps in Go, with a web frontend or a native GPU-rendered UI, shipped as a single binary
 * [graffiti](https://github.com/cztomsik/graffiti) ⭐ 933 | 🐛 2 | 🌐 Zig | 📅 2023-11-08 Rapid GUI development using familiar technologies (javascript, flexbox, css)
-* [nanoui](https://github.com/justrach/nanoui) ⭐ 417 | 🐛 4 | 🌐 Zig | 📅 2026-10-22 Desktop apps in Zig, with native UI drawn on the GPU or a web frontend
+* [nanoui](https://github.com/justrach/nanoui) ⭐ 429 | 🐛 3 | 🌐 Zig | 📅 2026-10-23 Desktop apps in Zig, with native UI drawn on the GPU or a web frontend
 * [Compose for Desktop](https://www.jetbrains.com/lp/compose/) Fast reactive desktop UIs for Kotlin, based on Google's modern toolkit and brought to you by JetBrains.
 * [Flutter](https://flutter.dev/) Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 
 ## UI library
 
-* [shadcn/ui](https://github.com/shadcn-ui/ui) ⭐ 126,204 | 🐛 1,782 | 🌐 TypeScript | 📅 2026-10-22 Beautifully designed components that you can copy and paste into your apps.
-* [Chakra UI](https://github.com/chakra-ui/chakra-ui) ⭐ 40,699 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-17 Simple, Modular & Accessible UI Components for your React Applications.
-* [Rough.js](https://github.com/rough-stuff/rough) ⭐ 21,296 | 🐛 42 | 🌐 HTML | 📅 2024-07-28 Rough.js is a small (<9 kB) graphics library that lets you draw in a sketchy, hand-drawn-like, style.
-* [Fluent Design](https://github.com/microsoft/fluentui) ⭐ 20,338 | 🐛 823 | 🌐 TypeScript | 📅 2026-10-22 Fluent Design System by Microsoft.
-* [Radix UI](https://github.com/radix-ui/primitives) ⭐ 19,416 | 🐛 245 | 🌐 TypeScript | 📅 2026-10-14 Unstyled, accessible components for building high‑quality design systems and web apps in React.
+* [shadcn/ui](https://github.com/shadcn-ui/ui) ⭐ 126,319 | 🐛 1,789 | 🌐 TypeScript | 📅 2026-10-23 Beautifully designed components that you can copy and paste into your apps.
+* [Chakra UI](https://github.com/chakra-ui/chakra-ui) ⭐ 40,701 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-22 Simple, Modular & Accessible UI Components for your React Applications.
+* [Rough.js](https://github.com/rough-stuff/rough) ⭐ 21,299 | 🐛 42 | 🌐 HTML | 📅 2024-07-28 Rough.js is a small (<9 kB) graphics library that lets you draw in a sketchy, hand-drawn-like, style.
+* [Fluent Design](https://github.com/microsoft/fluentui) ⭐ 20,341 | 🐛 821 | 🌐 TypeScript | 📅 2026-10-23 Fluent Design System by Microsoft.
+* [Radix UI](https://github.com/radix-ui/primitives) ⭐ 19,418 | 🐛 245 | 🌐 TypeScript | 📅 2026-10-14 Unstyled, accessible components for building high‑quality design systems and web apps in React.
 * [Geist UI](https://github.com/geist-org/geist-ui) ⚠️ Archived Modern and minimalist React UI library, originating from Vercel's design.
 * [Blueprintjs](https://blueprintjs.com/) A React-based UI toolkit for the web, made by Palantir.
 * [Mantine](https://mantine.dev/) Mantine is a MIT licensed open source react components and hooks library with focus on usability, accessibility and developer experience.
@@ -41,4 +41,4 @@ A curated list of awesome libraries for building cross platform apps.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
