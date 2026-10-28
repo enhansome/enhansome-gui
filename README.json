@@ -15,11 +15,11 @@
             "id": 9384267,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-27T15:09:22Z",
-            "open_issues": 761,
+            "last_commit": "2026-10-28T14:22:22Z",
+            "open_issues": 777,
             "owner": "electron",
             "repo": "electron",
-            "stars": 123573,
+            "stars": 123599,
             "topics": [
               "c-plus-plus",
               "chrome",
@@ -46,11 +46,11 @@
             "id": 196701619,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T02:27:15Z",
-            "open_issues": 1489,
+            "last_commit": "2026-10-28T12:45:59Z",
+            "open_issues": 1487,
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 112231,
+            "stars": 112267,
             "topics": [
               "desktop-app",
               "high-performance",
@@ -65,6 +65,32 @@
         },
         {
           "node_type": "item",
+          "title": "GPUI",
+          "description": "GPU-accelerated UI framework for Rust with hybrid immediate and retained mode rendering, used by the Zed editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+            "homepage": "https://zed.dev",
+            "id": 340547520,
+            "language": "Rust",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-28T16:22:34Z",
+            "open_issues": 3089,
+            "owner": "zed-industries",
+            "repo": "zed",
+            "stars": 92337,
+            "topics": [
+              "gpui",
+              "rust-lang",
+              "text-editor",
+              "zed"
+            ]
+          },
+          "first_seen": "2026-10-28T16:48:13.078Z"
+        },
+        {
+          "node_type": "item",
           "title": "Wails",
           "description": "Create desktop apps using Go and Web Technologies.",
           "children": [],
@@ -75,11 +101,11 @@
             "id": 161951219,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-27T15:21:41Z",
-            "open_issues": 350,
+            "last_commit": "2026-10-28T15:14:57Z",
+            "open_issues": 348,
             "owner": "wailsapp",
             "repo": "wails",
-            "stars": 36762,
+            "stars": 36791,
             "topics": [
               "angular",
               "desktop-application",
@@ -112,7 +138,7 @@
             "open_issues": 515,
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31844,
+            "stars": 31861,
             "topics": [
               "elm",
               "graphics",
@@ -140,11 +166,11 @@
             "id": 120227732,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-24T20:56:36Z",
-            "open_issues": 743,
+            "last_commit": "2026-10-27T18:31:37Z",
+            "open_issues": 745,
             "owner": "fyne-io",
             "repo": "fyne",
-            "stars": 28785,
+            "stars": 28786,
             "topics": [
               "android",
               "cross-platform",
@@ -172,8 +198,8 @@
             "id": 48009214,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T13:35:43Z",
-            "open_issues": 794,
+            "last_commit": "2026-10-28T14:35:35Z",
+            "open_issues": 798,
             "owner": "microsoft",
             "repo": "react-native-windows",
             "stars": 17360,
@@ -199,11 +225,11 @@
             "id": 764419211,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T02:35:17Z",
+            "last_commit": "2026-10-28T16:43:01Z",
             "open_issues": 152,
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 12971,
+            "stars": 12978,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
@@ -211,7 +237,7 @@
         {
           "node_type": "item",
           "title": "proton-native A React environment for cross platform native desktop apps proton-native.js.org",
-          "description": "Unmaintained",
+          "description": "Unmaintained (last commit: 2021-01-20; maintainer notice)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -224,7 +250,7 @@
             "open_issues": 89,
             "owner": "kusti8",
             "repo": "proton-native",
-            "stars": 10871,
+            "stars": 10870,
             "topics": [
               "cross-platform",
               "desktop",
@@ -276,7 +302,7 @@
             "id": 138368259,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T00:39:46Z",
+            "last_commit": "2026-10-28T00:31:04Z",
             "open_issues": 198,
             "owner": "neutralinojs",
             "repo": "neutralinojs",
@@ -300,7 +326,7 @@
         {
           "node_type": "item",
           "title": "revery ⚡️ Native, high-performance, cross-platform desktop apps - built with Reason!",
-          "description": "Unmaintained",
+          "description": "Unmaintained (last commit: 2021-08-27)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -364,7 +390,7 @@
         {
           "node_type": "item",
           "title": "vuido Native desktop applications using Vue.js. vuido.mimec.org",
-          "description": "Unmaintained",
+          "description": "Unmaintained (last commit: 2019-02-12)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -377,7 +403,7 @@
             "open_issues": 28,
             "owner": "mimecorg",
             "repo": "vuido",
-            "stars": 6045,
+            "stars": 6044,
             "topics": [
               "desktop",
               "libui",
@@ -390,7 +416,7 @@
         {
           "node_type": "item",
           "title": "Kraken High-performance web rendering engine, built on Flutter by Alibaba.",
-          "description": "Unmaintained",
+          "description": "Unmaintained (last commit: 2022-07-27; upstream recommends WebF for Flutter 3+)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -425,19 +451,19 @@
             "id": 1389416650,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-27T15:50:19Z",
-            "open_issues": 102,
+            "last_commit": "2026-10-28T16:12:06Z",
+            "open_issues": 85,
             "owner": "egoist",
             "repo": "mygo",
-            "stars": 3369,
+            "stars": 3541,
             "topics": []
           },
           "first_seen": "2026-10-11T16:24:43.364Z"
         },
         {
           "node_type": "item",
-          "title": "Muon",
-          "description": "Lightweight alternative to Electron written in Golang",
+          "title": "Muon Lightweight alternative to Electron written in Golang",
+          "description": "Unmaintained (last commit: 2022-10-10)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -462,8 +488,8 @@
         },
         {
           "node_type": "item",
-          "title": "graffiti",
-          "description": "Rapid GUI development using familiar technologies (javascript, flexbox, css)",
+          "title": "graffiti Rapid GUI development using familiar technologies (javascript, flexbox, css)",
+          "description": "Unmaintained (last commit: 2023-11-08)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -483,6 +509,32 @@
         },
         {
           "node_type": "item",
+          "title": "Native Shell",
+          "description": "Native UI framework for iOS, Android, macOS, Windows, Linux, and the web, with Rust and TSX support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in Rust.",
+            "homepage": "https://nsh.dev",
+            "id": 1419211419,
+            "language": "Rust",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-28T16:47:37Z",
+            "open_issues": 50,
+            "owner": "longbridge",
+            "repo": "nsh",
+            "stars": 837,
+            "topics": [
+              "cross-platform",
+              "gui",
+              "native",
+              "nsh"
+            ]
+          },
+          "first_seen": "2026-10-28T16:48:13.078Z"
+        },
+        {
+          "node_type": "item",
           "title": "nanoui",
           "description": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend",
           "children": [],
@@ -493,11 +545,11 @@
             "id": 1424201691,
             "language": "Zig",
             "license": "MIT",
-            "last_commit": "2026-10-27T15:50:02Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-27T22:51:53Z",
+            "open_issues": 3,
             "owner": "justrach",
             "repo": "nanoui",
-            "stars": 468,
+            "stars": 474,
             "topics": []
           },
           "first_seen": "2026-10-20T15:20:42.891Z"
@@ -521,10 +573,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-27T12:59:03Z",
-            "open_issues": 1769,
+            "open_issues": 1772,
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 126684,
+            "stars": 126817,
             "topics": [
               "ai",
               "base-ui",
@@ -563,7 +615,7 @@
             "open_issues": 22,
             "owner": "chakra-ui",
             "repo": "chakra-ui",
-            "stars": 40708,
+            "stars": 40709,
             "topics": [
               "a11y",
               "accessible",
@@ -587,8 +639,8 @@
         },
         {
           "node_type": "item",
-          "title": "Rough.js",
-          "description": "Rough.js is a small (<9 kB) graphics library that lets you draw in a sketchy, hand-drawn-like, style.",
+          "title": "Rough.js Rough.js is a small (<9 kB) graphics library that lets you draw in a sketchy, hand-drawn-like, style.",
+          "description": "Unmaintained (last commit: 2023-11-20)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -601,7 +653,7 @@
             "open_issues": 42,
             "owner": "rough-stuff",
             "repo": "rough",
-            "stars": 21321,
+            "stars": 21327,
             "topics": [
               "canvas",
               "draw",
@@ -625,11 +677,11 @@
             "id": 60537144,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T14:36:48Z",
-            "open_issues": 827,
+            "last_commit": "2026-10-27T17:12:44Z",
+            "open_issues": 828,
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20368,
+            "stars": 20372,
             "topics": [
               "components",
               "fluent",
@@ -654,10 +706,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-14T21:52:47Z",
-            "open_issues": 255,
+            "open_issues": 257,
             "owner": "radix-ui",
             "repo": "primitives",
-            "stars": 19437,
+            "stars": 19441,
             "topics": [
               "accessibility",
               "colors",
@@ -674,8 +726,63 @@
         },
         {
           "node_type": "item",
-          "title": "Geist UI",
-          "description": "Modern and minimalist React UI library, originating from Vercel's design.",
+          "title": "GPUI Kit",
+          "description": "Rust component library and umbrella crate for building desktop interfaces with GPUI; used by Glim, a macOS file viewer and basic text editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+            "homepage": "http://gpui-kit.com",
+            "id": 814684486,
+            "language": "Rust",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-28T06:52:07Z",
+            "open_issues": 134,
+            "owner": "longbridge",
+            "repo": "gpui-kit",
+            "stars": 18728,
+            "topics": [
+              "desktop-application",
+              "gpui",
+              "rust",
+              "uikit"
+            ]
+          },
+          "first_seen": "2026-10-28T16:48:13.078Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Wired Elements A set of common UI elements with a hand-drawn, sketchy look.",
+          "description": "Unmaintained (last commit: 2021-11-02)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.",
+            "homepage": "https://wiredjs.com",
+            "id": 101609772,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2023-10-07T20:59:18Z",
+            "open_issues": 36,
+            "owner": "rough-stuff",
+            "repo": "wired-elements",
+            "stars": 10848,
+            "topics": [
+              "lit-element",
+              "lit-html",
+              "prototyping",
+              "web-components",
+              "webcomponents",
+              "wireframe",
+              "wireframes"
+            ]
+          },
+          "first_seen": "2026-10-28T16:48:13.078Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Geist UI Modern and minimalist React UI library, originating from Vercel's design.",
+          "description": "Archived on 2026-06-01; no longer maintained",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -706,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:59:44.060Z",
+    "last_updated": "2026-10-28T16:48:13.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries for building cross platform app.",
@@ -714,8 +821,8 @@
       "id": 204604055,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-20T02:20:23Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-28T08:44:40Z",
+      "open_issues": 2,
       "owner": "zoubingwu",
       "repo": "awesome-gui",
       "stars": 98,
@@ -727,7 +834,7 @@
         "gui"
       ]
     },
-    "original_repository_sha": "c5aebd7684703fd0787753d303179cec439f9f3c",
+    "original_repository_sha": "ec014e1803ee389b277c3cf2d38afdd91880ffa6",
     "enhanced_repository": "enhansome/enhansome-gui",
     "enhanced_repository_description": null,
     "title": "awesome-gui with stars"
