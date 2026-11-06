@@ -15,11 +15,11 @@
             "id": 9384267,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-05T18:12:44Z",
-            "open_issues": 783,
+            "last_commit": "2026-11-06T17:36:56Z",
+            "open_issues": 784,
             "owner": "electron",
             "repo": "electron",
-            "stars": 123787,
+            "stars": 123803,
             "topics": [
               "c-plus-plus",
               "chrome",
@@ -46,11 +46,11 @@
             "id": 196701619,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T15:12:41Z",
-            "open_issues": 1498,
+            "last_commit": "2026-11-06T12:01:26Z",
+            "open_issues": 1499,
             "owner": "tauri-apps",
             "repo": "tauri",
-            "stars": 112526,
+            "stars": 112559,
             "topics": [
               "desktop-app",
               "high-performance",
@@ -75,11 +75,11 @@
             "id": 340547520,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T18:10:34Z",
-            "open_issues": 3054,
+            "last_commit": "2026-11-06T16:10:53Z",
+            "open_issues": 3027,
             "owner": "zed-industries",
             "repo": "zed",
-            "stars": 92835,
+            "stars": 93307,
             "topics": [
               "gpui",
               "rust-lang",
@@ -102,10 +102,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-05T00:17:44Z",
-            "open_issues": 364,
+            "open_issues": 370,
             "owner": "wailsapp",
             "repo": "wails",
-            "stars": 36959,
+            "stars": 36972,
             "topics": [
               "angular",
               "desktop-application",
@@ -138,7 +138,7 @@
             "open_issues": 519,
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31921,
+            "stars": 31944,
             "topics": [
               "elm",
               "graphics",
@@ -167,10 +167,10 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-03T09:13:34Z",
-            "open_issues": 764,
+            "open_issues": 765,
             "owner": "fyne-io",
             "repo": "fyne",
-            "stars": 28819,
+            "stars": 28815,
             "topics": [
               "android",
               "cross-platform",
@@ -198,11 +198,11 @@
             "id": 48009214,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T05:12:14Z",
+            "last_commit": "2026-11-06T13:44:12Z",
             "open_issues": 776,
             "owner": "microsoft",
             "repo": "react-native-windows",
-            "stars": 17371,
+            "stars": 17372,
             "topics": [
               "dotnet",
               "react",
@@ -229,7 +229,7 @@
             "open_issues": 159,
             "owner": "blackboardsh",
             "repo": "electrobun",
-            "stars": 13026,
+            "stars": 13035,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
@@ -277,7 +277,7 @@
             "open_issues": 101,
             "owner": "nodegui",
             "repo": "nodegui",
-            "stars": 9239,
+            "stars": 9237,
             "topics": [
               "cross-platform",
               "desktop",
@@ -303,10 +303,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-05T00:26:54Z",
-            "open_issues": 131,
+            "open_issues": 132,
             "owner": "neutralinojs",
             "repo": "neutralinojs",
-            "stars": 8683,
+            "stars": 8684,
             "topics": [
               "c-plus-plus",
               "cross-platform",
@@ -372,7 +372,7 @@
             "open_issues": 28,
             "owner": "fschutt",
             "repo": "azul",
-            "stars": 6134,
+            "stars": 6137,
             "topics": [
               "c",
               "cpp",
@@ -415,6 +415,27 @@
         },
         {
           "node_type": "item",
+          "title": "MyGo",
+          "description": "Desktop apps in Go, with a web frontend or a native GPU-rendered UI, shipped as a single binary",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Develop desktop apps with native UI or web frontend in Go",
+            "homepage": "https://mygo.egoist.dev",
+            "id": 1389416650,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-11-06T17:33:10Z",
+            "open_issues": 93,
+            "owner": "egoist",
+            "repo": "mygo",
+            "stars": 5012,
+            "topics": []
+          },
+          "first_seen": "2026-10-11T16:24:43.364Z"
+        },
+        {
+          "node_type": "item",
           "title": "Kraken High-performance web rendering engine, built on Flutter by Alibaba.",
           "description": "Unmaintained (last commit: 2022-07-27; upstream recommends WebF for Flutter 3+)",
           "children": [],
@@ -429,7 +450,7 @@
             "open_issues": 207,
             "owner": "openkraken",
             "repo": "kraken",
-            "stars": 4922,
+            "stars": 4918,
             "topics": [
               "engine",
               "flutter",
@@ -438,27 +459,6 @@
             ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MyGo",
-          "description": "Desktop apps in Go, with a web frontend or a native GPU-rendered UI, shipped as a single binary",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Develop desktop apps with native UI or web frontend in Go",
-            "homepage": "https://mygo.egoist.dev",
-            "id": 1389416650,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-11-05T18:14:19Z",
-            "open_issues": 104,
-            "owner": "egoist",
-            "repo": "mygo",
-            "stars": 4786,
-            "topics": []
-          },
-          "first_seen": "2026-10-11T16:24:43.364Z"
         },
         {
           "node_type": "item",
@@ -498,11 +498,11 @@
             "id": 1419211419,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T17:36:52Z",
-            "open_issues": 90,
+            "last_commit": "2026-11-06T17:37:25Z",
+            "open_issues": 104,
             "owner": "longbridge",
             "repo": "nsh",
-            "stars": 1473,
+            "stars": 1868,
             "topics": [
               "cross-platform",
               "gui",
@@ -545,11 +545,11 @@
             "id": 1424201691,
             "language": "Zig",
             "license": "MIT",
-            "last_commit": "2026-11-05T16:51:47Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-06T13:51:41Z",
+            "open_issues": 13,
             "owner": "justrach",
             "repo": "nanoui",
-            "stars": 830,
+            "stars": 850,
             "topics": []
           },
           "first_seen": "2026-10-20T15:20:42.891Z"
@@ -572,11 +572,11 @@
             "id": 585146387,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T16:47:13Z",
-            "open_issues": 1785,
+            "last_commit": "2026-11-06T16:20:36Z",
+            "open_issues": 1770,
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 127430,
+            "stars": 127509,
             "topics": [
               "ai",
               "base-ui",
@@ -612,7 +612,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-05T10:27:05Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "chakra-ui",
             "repo": "chakra-ui",
             "stars": 40713,
@@ -653,7 +653,7 @@
             "open_issues": 42,
             "owner": "rough-stuff",
             "repo": "rough",
-            "stars": 21349,
+            "stars": 21352,
             "topics": [
               "canvas",
               "draw",
@@ -677,11 +677,11 @@
             "id": 60537144,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T17:42:54Z",
-            "open_issues": 824,
+            "last_commit": "2026-11-06T16:02:07Z",
+            "open_issues": 826,
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20392,
+            "stars": 20390,
             "topics": [
               "components",
               "fluent",
@@ -689,37 +689,6 @@
               "office-ui-fabric",
               "react",
               "react-components"
-            ]
-          },
-          "first_seen": "2026-08-28T21:14:51.601Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Radix UI",
-          "description": "Unstyled, accessible components for building high‑quality design systems and web apps in React.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.",
-            "homepage": "https://radix-ui.com/primitives",
-            "id": 273499522,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-14T21:52:47Z",
-            "open_issues": 269,
-            "owner": "radix-ui",
-            "repo": "primitives",
-            "stars": 19471,
-            "topics": [
-              "accessibility",
-              "colors",
-              "component-library",
-              "design-systems",
-              "radix-ui",
-              "react",
-              "ui",
-              "ui-components",
-              "ui-kit"
             ]
           },
           "first_seen": "2026-08-28T21:14:51.601Z"
@@ -736,11 +705,11 @@
             "id": 814684486,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T16:30:47Z",
-            "open_issues": 148,
+            "last_commit": "2026-11-06T16:22:59Z",
+            "open_issues": 145,
             "owner": "longbridge",
             "repo": "gpui-kit",
-            "stars": 19335,
+            "stars": 19635,
             "topics": [
               "desktop-application",
               "gpui",
@@ -749,6 +718,37 @@
             ]
           },
           "first_seen": "2026-10-28T16:48:13.078Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Radix UI",
+          "description": "Unstyled, accessible components for building high‑quality design systems and web apps in React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.",
+            "homepage": "https://radix-ui.com/primitives",
+            "id": 273499522,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-14T21:52:47Z",
+            "open_issues": 273,
+            "owner": "radix-ui",
+            "repo": "primitives",
+            "stars": 19475,
+            "topics": [
+              "accessibility",
+              "colors",
+              "component-library",
+              "design-systems",
+              "radix-ui",
+              "react",
+              "ui",
+              "ui-components",
+              "ui-kit"
+            ]
+          },
+          "first_seen": "2026-08-28T21:14:51.601Z"
         },
         {
           "node_type": "item",
@@ -766,7 +766,7 @@
             "open_issues": 36,
             "owner": "rough-stuff",
             "repo": "wired-elements",
-            "stars": 10850,
+            "stars": 10851,
             "topics": [
               "lit-element",
               "lit-html",
@@ -795,7 +795,7 @@
             "open_issues": 54,
             "owner": "geist-org",
             "repo": "geist-ui",
-            "stars": 4549,
+            "stars": 4546,
             "topics": [
               "design-system",
               "design-systems",
@@ -813,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T18:14:57.565Z",
+    "last_updated": "2026-11-06T17:39:53.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries for building cross platform app.",
